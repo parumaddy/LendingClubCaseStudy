@@ -23,11 +23,11 @@
 
 ## Conclusions
 - Major Driving factor which can be used to predict the chance of defaulting and avoiding Credit Loss:
-	DTI
-	Grades
-	Verification Status
-	Annual income
-	Pub_rec_bankruptcies
+	* DTI
+	* Grades
+	* Verification Status
+	* Annual income
+	* Pub_rec_bankruptcies
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
